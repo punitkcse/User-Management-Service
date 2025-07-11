@@ -1,0 +1,12 @@
+com\example\usermanagement\dto\LoginRequest.class
+com\example\usermanagement\config\SecurityConfig.class
+com\example\usermanagement\entity\User.class
+com\example\usermanagement\config\JwtAuthenticationFilter.class
+com\example\usermanagement\repository\UserRepository.class
+com\example\usermanagement\entity\User$Role.class
+com\example\usermanagement\service\UserService.class
+com\example\usermanagement\dto\SignupRequest.class
+com\example\usermanagement\dto\AuthResponse.class
+com\example\usermanagement\UserManagementApplication.class
+com\example\usermanagement\service\JwtService.class
+com\example\usermanagement\controller\AuthController.class
